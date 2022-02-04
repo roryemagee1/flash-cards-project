@@ -31,4 +31,6 @@ git clone git@github.com:roryemagee1/flash-cards-project.git
 - After that, the terminal will prompt the user with another question.
 - Once the user completes all 30 questions in the stack, the user will be given the percentage of questions that they got right and then the program will end.
 
-## gif
+## Demo Gif
+
+![Flash Cards Gif](https://user-images.githubusercontent.com/92283709/152471216-7851717d-ac56-45ab-bb92-b5e92961b1c2.gif)
